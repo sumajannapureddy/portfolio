@@ -901,7 +901,13 @@ button {
 
     color: var(--gray);
 }
-
+.education-university {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--blue);
+    letter-spacing: 1px;
+}
 
 /* =========================================================
    CONTACT
